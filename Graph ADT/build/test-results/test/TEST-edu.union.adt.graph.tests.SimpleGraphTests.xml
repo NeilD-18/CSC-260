@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.union.adt.graph.tests.SimpleGraphTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-01-31T04:23:34" hostname="Neils-MacBook-Pro.local" time="0.004">
+  <properties/>
+  <testcase name="createNodesAndConnect" classname="edu.union.adt.graph.tests.SimpleGraphTests" time="0.002"/>
+  <testcase name="degree" classname="edu.union.adt.graph.tests.SimpleGraphTests" time="0.0"/>
+  <testcase name="addEdge" classname="edu.union.adt.graph.tests.SimpleGraphTests" time="0.001"/>
+  <testcase name="adjacent" classname="edu.union.adt.graph.tests.SimpleGraphTests" time="0.0"/>
+  <testcase name="string" classname="edu.union.adt.graph.tests.SimpleGraphTests" time="0.0"/>
+  <testcase name="construct" classname="edu.union.adt.graph.tests.SimpleGraphTests" time="0.0"/>
+  <testcase name="addVertex" classname="edu.union.adt.graph.tests.SimpleGraphTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.union.adt.graph.tests.GraphTestsUsingEquals" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-01-31T04:23:34" hostname="Neils-MacBook-Pro.local" time="0.0">
+  <properties/>
+  <testcase name="simpleEquals" classname="edu.union.adt.graph.tests.GraphTestsUsingEquals" time="0.0"/>
+  <testcase name="addEdge" classname="edu.union.adt.graph.tests.GraphTestsUsingEquals" time="0.0"/>
+  <testcase name="addVertex" classname="edu.union.adt.graph.tests.GraphTestsUsingEquals" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

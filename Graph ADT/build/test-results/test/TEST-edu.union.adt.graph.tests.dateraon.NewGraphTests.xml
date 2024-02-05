@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.union.adt.graph.tests.dateraon.NewGraphTests" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-01-31T04:23:34" hostname="Neils-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="testRemoveEdgeInvalidEdge" classname="edu.union.adt.graph.tests.dateraon.NewGraphTests" time="0.0"/>
+  <testcase name="testGetPath" classname="edu.union.adt.graph.tests.dateraon.NewGraphTests" time="0.0"/>
+  <testcase name="testRemoveVertexNotPresent" classname="edu.union.adt.graph.tests.dateraon.NewGraphTests" time="0.0"/>
+  <testcase name="testPathLength" classname="edu.union.adt.graph.tests.dateraon.NewGraphTests" time="0.0"/>
+  <testcase name="testRemoveVertex" classname="edu.union.adt.graph.tests.dateraon.NewGraphTests" time="0.0"/>
+  <testcase name="testHasPath" classname="edu.union.adt.graph.tests.dateraon.NewGraphTests" time="0.0"/>
+  <testcase name="testRemoveEdge" classname="edu.union.adt.graph.tests.dateraon.NewGraphTests" time="0.0"/>
+  <testcase name="testIsEmpty" classname="edu.union.adt.graph.tests.dateraon.NewGraphTests" time="0.0"/>
+  <testcase name="testGetPathInvalid" classname="edu.union.adt.graph.tests.dateraon.NewGraphTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
